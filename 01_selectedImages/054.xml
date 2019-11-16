@@ -1,0 +1,26 @@
+<annotation>
+	<folder>selected_images</folder>
+	<filename>054.jpg</filename>
+	<path>/home/cheng/keras_YOLOv3/selected_images/054.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>566</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>231</ymin>
+			<xmax>704</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>

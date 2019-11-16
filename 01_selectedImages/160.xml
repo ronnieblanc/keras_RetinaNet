@@ -1,0 +1,26 @@
+<annotation>
+	<folder>selected_images</folder>
+	<filename>160.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\selected_images\160.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>678</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>158</ymin>
+			<xmax>501</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

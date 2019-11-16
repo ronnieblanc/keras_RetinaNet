@@ -1,0 +1,26 @@
+<annotation>
+	<folder>selected_images</folder>
+	<filename>167.jpg</filename>
+	<path>/home/wei/server_share/20190304/selected_images/167.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>77</ymin>
+			<xmax>800</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>

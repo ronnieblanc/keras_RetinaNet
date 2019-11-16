@@ -1,0 +1,26 @@
+<annotation>
+	<folder>selected_images</folder>
+	<filename>005.jpg</filename>
+	<path>/home/leikun/keras_YOLOv3/selected_images/005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>562</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>138</ymin>
+			<xmax>619</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>
