@@ -10,4 +10,6 @@ python 04_xml2csv.py -d images_416x416
 
 cd ./keras-retinanet-master/  pip install .
 
+retinanet-train --batch-size 4 --epochs 20 --steps 500 --workers=0 csv train.csv class.csv --val-annotation test.csv
+
 retinanet-convert-model snapshots/resnet50_csv_20.h5 retinanet_inference.h5
