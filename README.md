@@ -8,7 +8,11 @@ python 03_compressImages.py -d 01_selectedImages
 
 python 04_xml2csv.py -d images_416x416
 
-cd ./keras-retinanet-master/  pip install .
+cd keras-retinanet-master  
+
+pip install .
+
+cd ..
 
 retinanet-train --batch-size 4 --epochs 20 --steps 500 --workers=0 csv train.csv class.csv --val-annotation test.csv
 
