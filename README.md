@@ -1,5 +1,7 @@
 # keras_RetinaNet
 
+Change directory to the folder, then run the following commands: 
+
 python 01_selectImages.py -d n01440764
 
 python 02_checkAnnotations.py -d 01_selectedImages
